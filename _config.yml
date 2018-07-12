@@ -46,7 +46,7 @@ author:
   email:               cyril@cathala.org
   github:              cyrilcathala
   twitter:             CyrilCathala
-  rss:                 https://cyrilcathala.github.io/feed.xml
+  rss:                 http://cyrilcathala.github.io/feed.xml
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2018. All rights reserved.
